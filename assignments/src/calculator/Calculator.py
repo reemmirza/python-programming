@@ -20,4 +20,8 @@ def divide(a: float, b: float) -> float:
         raise ValueError("Divisor cannot be zero.")
     return a / b
 
-def main()
+def main():
+    print("Hello World")
+
+if __name__ == "__main__":
+    main()
